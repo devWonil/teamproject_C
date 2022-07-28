@@ -57,3 +57,7 @@
  - JLabel 클래스, 게임이 시작하고 배달을 완료함에 따라 올라가는 매출
  - 목표 매출 달성시 매출 리셋됨
  
+
+
+https://user-images.githubusercontent.com/102580743/181428446-ed0e87f6-35d8-4c19-bd2e-6315af2c5483.mp4
+
